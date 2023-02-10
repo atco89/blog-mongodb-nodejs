@@ -1,0 +1,28 @@
+{
+  "user": {
+    "username": "aleksandar",
+    "password": "password"
+  },
+  "posts": [
+    {
+      "title": "Wild animals",
+      "image": "https://media.npr.org/assets/img/2015/12/21/ap_668819555077-1-_wide-8daf4df22b90189fde695be2dada93ced843824e-s1400-c100.jpg",
+      "description": "Sed nec vehicula arcu. Sed eget nulla quis neque vehicula sollicitudin a eu risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi sed nisl urna. Etiam porttitor sapien in ornare iaculis. Etiam sed accumsan purus. Vestibulum pharetra condimentum turpis a consectetur. Quisque fermentum elit velit, ut lobortis nisl dignissim sit amet. Pellentesque nibh felis, pharetra pretium sapien ac, iaculis volutpat dui. Nam sed tempus enim, eget fermentum mauris. Maecenas lacus risus, mattis in lobortis in, bibendum et augue. Fusce aliquet magna vitae mauris elementum egestas. Vivamus euismod, libero sit amet pulvinar sollicitudin, augue libero facilisis sem, sed ornare tellus massa vel neque.",
+      "comments": [
+        "Quisque semper vehicula lorem, vitae.",
+        "Nunc gravida tempus commodo. Aenean.",
+        "Curabitur venenatis, lacus ut cursus."
+      ]
+    },
+    {
+      "title": "Global warming",
+      "image": "https://d3hnfqimznafg0.cloudfront.net/images/Article_Images/ImageForArticle_898_44924040741493052171.jpg",
+      "description": "Cras at posuere ex. Etiam fringilla a tortor nec cursus. Mauris tincidunt, lacus a ultricies consectetur, turpis nulla ornare tellus, eu bibendum sem ipsum sed tortor. In sed erat sed arcu mattis euismod a vitae libero. In dictum eleifend nibh vel ultrices. Integer fringilla arcu at metus sollicitudin, ac laoreet orci mattis. Nullam nec diam et eros suscipit hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In id quam leo. Fusce euismod purus nec est tincidunt fringilla. Nulla venenatis egestas interdum. In nisl ligula, sagittis quis laoreet quis, aliquam ut velit.",
+      "comments": [
+        "Morbi eleifend cursus dapibus. Aliquam.",
+        "Donec vehicula egestas gravida. In.",
+        "Nunc euismod odio ut urna."
+      ]
+    }
+  ]
+}
